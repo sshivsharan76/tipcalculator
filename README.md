@@ -1,7 +1,9 @@
 # Tip-Calculator-
 Simple web app to calculate tip depending on service and also the number of people.
 # Page Preview 
-![Screenshot (35)](https://user-images.githubusercontent.com/108619671/187080642-e0955c18-0b07-4bbf-a55d-b314edb3bab7.png)
+![image](https://user-images.githubusercontent.com/92040473/199670420-acb2dabb-5778-4089-834b-8b6962d68aee.png)
+
+
 # Problem Statement
 Whenever I go out to eat and I’m having a hard time calculating the 
 right tip, I’ll
