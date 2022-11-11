@@ -7,7 +7,7 @@ function calculateTip()
     var bill = document.querySelector("#billamt").value;
     var tipPercentage = document.querySelector("#serviceQual").value;
     var persons = document.querySelector("#peopleamt").value;
-    if(bill === '' || tipPercentage === 'Select' || persons === '')
+    if(bill === '' )
     {
         alert("Please Enter Bill Amount");
         return;
